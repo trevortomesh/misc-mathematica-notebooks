@@ -1,0 +1,338 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 7.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[     12542,        329]
+NotebookOptionsPosition[      9055,        239]
+NotebookOutlinePosition[     12007,        314]
+CellTagsIndexPosition[     11964,        311]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+May 2 2009
+\t                                                                  Trevor M. \
+Tomesh\
+\>", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.450374920060729*^9}, {3.450375778797205*^9, 
+  3.45037580551906*^9}, {3.450375872809976*^9, 3.450375872816456*^9}, {
+  3.450375906155278*^9, 3.4503759101610737`*^9}},
+ TextAlignment->Right,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.450374920060729*^9}, {3.450375778797205*^9, 
+  3.45037580551906*^9}, {3.450375872809976*^9, 3.4503758790161467`*^9}},
+ TextAlignment->Right,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["\t\t\tArt and Science Extra Credit", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+   3.4503748675721083`*^9, 3.450374920059318*^9}, 3.4503757696063433`*^9},
+ TextAlignment->Right,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.450374922562709*^9}},
+ TextAlignment->Center,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Text",
+ CellChangeTimes->{3.450374973901184*^9}],
+
+Cell["Da Vinci's Code", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.4503749225611753`*^9}},
+ TextAlignment->Center,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["\t", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.450374925329134*^9}},
+ TextAlignment->Left,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell[TextData[{
+ StyleBox["\tCentral to the 2006 Ron Howard thriller, \"The Da Vinci Code\" \
+is, of course, Leonardo's \"The Last Supper\". The plot of the movie is \
+motivated by the idea that Leonardo Da Vinci painted into his masterpiece a \
+cryptic and heretical message guarded by a secret society. Although the Da \
+Vinci code might be a work of fiction, there may be a seed of truth to the \
+myth.\n\t Musician Giovanni Maria Pala writes in his book La Musica Caleta \
+(The Hidden Music) that Leonardo may have hid into his work a secret hymn \
+along with a cryptic message. Pala marked every piece of bread and the hands \
+of each of the apostles with a musical note. ",
+  FontFamily->"Verdana"],
+ "Pala Claims, ",
+ StyleBox["\"I marked the pieces of bread on the table and the Apostle's \
+hands as music notes. Then I drew a pentagram over the scene between the \
+tablecloth and Jesus' face. I couldn't believe my ears when I played the \
+music. It sounded really solemn, almost like a requiem.\" The music itself is \
+read from right to left (Da Vinci often wrote from right to left as a sort of \
+code so that others would not be able to steal his ideas), and when played on \
+a pipe organ does indeed sound like a solemn hymn.",
+  FontFamily->"Verdana",
+  FontColor->RGBColor[0.2, 0.2, 0.2]],
+ "\n",
+ StyleBox["\tAnother claim that Pala makes in his book is that there exists \
+in the painting a hidden Hebrew text. Literally by connecting the dots of the \
+\"music notes\" the Hebrew words \"bo nezer usbi\" appeared, which translated \
+into English means \"with Him consecration and glory.\" Of course, this seems \
+appropriate for the commission.",
+  FontFamily->"Verdana",
+  FontColor->RGBColor[0.2, 0.2, 0.2]],
+ "\n",
+ StyleBox["\tAnother claim made about the picture is that of a hidden image. \
+Indeed, it seems that there is a chalice hidden in the picture, but not Mary \
+Magdalene. \"I placed the nine letters of the ancient Hebrew text one on top \
+of the other, following an ascending path, which is the direction of the \
+hands of the first six Apostles. The result was a strange image,\" said Pala. \
+Noticing that the bread in front of Jesus was split in half, he came to the \
+realization that he was to duplicate the image. The resulting image was, \
+indeed, a chalice. When rotated around, the motif appeared to be the same \
+design as the decorative windows at Maria delle Grazie, where the last supper \
+was painted. ",
+  FontFamily->"Verdana",
+  FontColor->RGBColor[0.2, 0.2, 0.2]],
+ "\n",
+ StyleBox["\tWhether coincidence or not, what ",
+  FontFamily->"Verdana",
+  FontColor->RGBColor[0.2, 0.2, 0.2]],
+ "Giovanni Maria Pala",
+ StyleBox[" has uncovered is nothing short of interesting, and it makes one \
+wonder what other kind of secrets Leonardo Da Vinci left for us to discover. ",
+  FontFamily->"Verdana",
+  FontColor->RGBColor[0.2, 0.2, 0.2]]
+}], "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+   3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+   3.450375171106125*^9}, 3.450375722989588*^9, {3.450376208807702*^9, 
+   3.45037625033009*^9}},
+ TextAlignment->Left,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751736185837`*^9}},
+ TextAlignment->Left,
+ TextJustification->0.,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376310086912*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376310221116*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376310429235*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376310620585*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376310812788*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376311020542*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376311229168*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell["", "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.4503763114292183`*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12],
+
+Cell[TextData[{
+ StyleBox["References:",
+  FontFamily->"Verdana",
+  FontWeight->"Bold"],
+ StyleBox["\n\
+1.http://dsc.discovery.com/news/2007/11/09/last-supper-da-vinci.html\n\
+2.http://www.thaindian.com/newsportal/sci-tech/da-vincis-the-last-supper-may-\
+harbour-the-elusive-da-vinci-code_1004487.html",
+  FontFamily->"Verdana"],
+ "\n\t\n\t"
+}], "Date",
+ CellChangeTimes->{{3.450303780330122*^9, 3.4503038210831623`*^9}, {
+  3.4503748675721083`*^9, 3.45037492532163*^9}, {3.450375171099806*^9, 
+  3.4503751748981028`*^9}, {3.450376310080834*^9, 3.450376311422097*^9}},
+ TextAlignment->Center,
+ TextJustification->1,
+ LineSpacing->{2, 3},
+ FontSize->12]
+},
+ScreenStyleEnvironment->"Printout",
+ShowPageBreaks->True,
+WindowSize->{645, 620},
+WindowMargins->{{183, Automatic}, {Automatic, 2}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+PrintingOptions->{"PaperOrientation"->"Portrait"},
+ShowSelection->True,
+Magnification:>FEPrivate`If[
+  FEPrivate`Equal[FEPrivate`$VersionNumber, 6.], 1.5, 1.5 Inherited],
+FrontEndVersion->"7.0 for Mac OS X x86 (32-bit) (November 10, 2008)",
+StyleDefinitions->Notebook[{
+   Cell[
+    StyleData[StyleDefinitions -> "Default.nb"]], 
+   Cell[
+    StyleData[StyleDefinitions -> "StyleMenuClear.nb"]], 
+   Cell[
+    StyleData["Notebook"], WindowToolbars -> "EditBar", PageWidth -> 500, 
+    CellLabelAutoDelete -> False, DefaultNewCellStyle -> "Text", 
+    AutoStyleOptions -> {
+     "FunctionLocalVariableStyle" -> None, "LocalVariableStyle" -> None, 
+      "PatternVariableStyle" -> {FontSlant -> "Italic"}, 
+      "StringStyle" -> {
+       FontColor -> GrayLevel[0], ShowAutoStyles -> False, ShowSyntaxStyles -> 
+        False, AutoNumberFormatting -> False}, "UndefinedSymbolStyle" -> 
+      None}], 
+   Cell[
+    StyleData["Title"], CellMargins -> {{59, Inherited}, {3, 60}}, 
+    MenuPosition -> 1000, MenuCommandKey -> "1", FontSize -> 14, FontColor -> 
+    RGBColor[0.8, 0, 0]], 
+   Cell[
+    StyleData["Text"], CellMargins -> {{60, 10}, {8, 8}}, 
+    ReturnCreatesNewCell -> True, LineSpacing -> {1, 1.9}, MenuPosition -> 
+    7000, MenuCommandKey -> "7", FontFamily -> "Helvetica", FontSize -> 12], 
+   Cell[
+    StyleData["Date", StyleDefinitions -> StyleData["Text"]], 
+    CellMargins -> {{60, 10}, {1, 1}}, MenuPosition -> 2000, MenuCommandKey -> 
+    "2", FontSize -> 10], 
+   Cell[
+    StyleData["Author", StyleDefinitions -> StyleData["Text"]], 
+    CellMargins -> {{60, 10}, {7, 1}}, MenuPosition -> 3000, MenuCommandKey -> 
+    "3"], 
+   Cell[
+    StyleData["Hyperlink"], FontColor -> RGBColor[0.8, 0, 0]], 
+   Cell[
+    StyleData["FunctionLink", StyleDefinitions -> StyleData["Hyperlink"]], 
+    MenuPosition -> 10000, FontFamily -> "Courier", FontSize -> 12, FontColor -> 
+    RGBColor[0.8, 0, 0]], 
+   Cell[
+    StyleData["InlineCode"], MenuPosition -> 10000, FontFamily -> "Courier"], 
+   Cell[
+    StyleData["Input"], CellMargins -> {{60, 10}, {5, 10}}, MenuPosition -> 
+    9000, MenuCommandKey -> "9"], 
+   Cell[
+    StyleData["Output"], CellMargins -> {{60, 10}, {10, 5}}], 
+   Cell[
+    StyleData["Program"], CellFrame -> False, 
+    CellMargins -> {{60, 4}, {8, 8}}, MenuPosition -> 8000, MenuCommandKey -> 
+    "8"], 
+   Cell[
+    StyleData["Picture"], CellMargins -> {{60, Inherited}, {8, 8}}, 
+    MenuPosition -> 6000, MenuCommandKey -> "6"]}, Visible -> False, 
+  FrontEndVersion -> "7.0 for Mac OS X x86 (32-bit) (November 10, 2008)", 
+  StyleDefinitions -> "Default.nb"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[545, 20, 469, 12, 60, "Date"],
+Cell[1017, 34, 315, 7, 28, "Date"],
+Cell[1335, 43, 278, 6, 28, "Date"],
+Cell[1616, 51, 220, 6, 28, "Date"],
+Cell[1839, 59, 58, 1, 28, "Text"],
+Cell[1900, 62, 237, 6, 28, "Date"],
+Cell[2140, 70, 220, 6, 28, "Date"],
+Cell[2363, 78, 3216, 59, 1197, "Date"],
+Cell[5582, 139, 268, 7, 28, "Date"],
+Cell[5853, 148, 315, 7, 28, "Date"],
+Cell[6171, 157, 315, 7, 28, "Date"],
+Cell[6489, 166, 315, 7, 28, "Date"],
+Cell[6807, 175, 315, 7, 28, "Date"],
+Cell[7125, 184, 315, 7, 28, "Date"],
+Cell[7443, 193, 315, 7, 28, "Date"],
+Cell[7761, 202, 315, 7, 28, "Date"],
+Cell[8079, 211, 317, 7, 28, "Date"],
+Cell[8399, 220, 652, 17, 207, "Date"]
+}
+]
+*)
+
+(* End of internal cache information *)

@@ -1,0 +1,160 @@
+(* Content-type: application/mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 7.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       145,          7]
+NotebookDataLength[      5664,        150]
+NotebookOptionsPosition[      5061,        127]
+NotebookOutlinePosition[      5607,        148]
+CellTagsIndexPosition[      5564,        145]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+May 2 2009
+\t                                                                  Trevor M. \
+Tomesh
+\t                                                                  Art and \
+Science Extra Credit\
+\>", "Text",
+ CellChangeTimes->{
+  3.4503768958401623`*^9, {3.45037692741897*^9, 3.45037694423552*^9}},
+ TextAlignment->Right,
+ LineSpacing->{1.5, 3},
+ FontColor->GrayLevel[0]],
+
+Cell[TextData[StyleBox["Da Vinci's Code",
+ FontWeight->"Bold"]], "Text",
+ CellChangeTimes->{
+  3.4503768958401623`*^9, {3.45037692741897*^9, 3.450376956310277*^9}},
+ TextAlignment->Center,
+ LineSpacing->{1.5, 3},
+ FontColor->GrayLevel[0]],
+
+Cell[TextData[{
+ "\n\t",
+ StyleBox["\tCentral to the 2006 Ron Howard thriller, \"The Da Vinci Code\" \
+is, of course, Leonardo's \"The Last Supper\". The plot of the movie is \
+motivated by the idea that Leonardo Da Vinci painted into his masterpiece a \
+cryptic and heretical message guarded by a secret society. Although the Da \
+Vinci code might be a work of fiction, there may be a seed of truth to the \
+myth.\n\t \tMusician Giovanni Maria Pala writes in his book La Musica Caleta \
+(The Hidden Music) that Leonardo may have hid into his work a secret hymn \
+along with a cryptic message. Pala marked every piece of bread and the hands \
+of each of the apostles with a musical note. ",
+  FontFamily->"Verdana"],
+ "Pala Claims, ",
+ StyleBox["\"I marked the pieces of bread on the table and the Apostle's \
+hands as music notes. Then I drew a pentagram over the scene between the \
+tablecloth and Jesus' face. I couldn't believe my ears when I played the \
+music. It sounded really solemn, almost like a requiem.\" The music itself is \
+read from right to left (Da Vinci often wrote from right to left as a sort of \
+code so that others would not be able to steal his ideas), and when played on \
+a pipe organ does indeed sound like a solemn hymn.",
+  FontFamily->"Verdana"],
+ "\n",
+ StyleBox["\tAnother claim that Pala makes in his book is that there exists \
+in the painting a hidden Hebrew text. Literally by connecting the dots of the \
+\"music notes\" the Hebrew words \"bo nezer usbi\" appeared, which translated \
+into English means \"with Him consecration and glory.\" Of course, this seems \
+appropriate for the commission.",
+  FontFamily->"Verdana"],
+ "\n",
+ StyleBox["\tAnother claim made about the picture is that of a hidden image. \
+Indeed, it seems that there is a chalice hidden in the picture, but not Mary \
+Magdalene. \"I placed the nine letters of the ancient Hebrew text one on top \
+of the other, following an ascending path, which is the direction of the \
+hands of the first six Apostles. The result was a strange image,\" said Pala. \
+Noticing that the bread in front of Jesus was split in half, he came to the \
+realization that he was to duplicate the image. The resulting image was, \
+indeed, a chalice. When rotated around, the motif appeared to be the same \
+design as the decorative windows at Maria delle Grazie, where the last supper \
+was painted. ",
+  FontFamily->"Verdana"],
+ "\n",
+ StyleBox["\tWhether coincidence or not, what ",
+  FontFamily->"Verdana"],
+ "Giovanni Maria Pala",
+ StyleBox[" has uncovered is nothing short of interesting, and it makes one \
+wonder what other kind of secrets Leonardo Da Vinci left for us to discover. ",
+  FontFamily->"Verdana"],
+ "\n\n\n\n\n\n\n\n\n"
+}], "Text",
+ CellMargins->{{0, 24}, {7, 7}},
+ CellChangeTimes->{
+  3.4503768958401623`*^9, {3.45037692741897*^9, 3.450376965426703*^9}, {
+   3.4503771473955*^9, 3.4503771643081512`*^9}, 3.450378106913436*^9},
+ LineSpacing->{1.5, 3},
+ FontColor->GrayLevel[0]],
+
+Cell[TextData[{
+ StyleBox["References:",
+  FontFamily->"Verdana",
+  FontWeight->"Bold"],
+ StyleBox["\n\
+1.http://dsc.discovery.com/news/2007/11/09/last-supper-da-vinci.html\n\
+2.http://www.thaindian.com/newsportal/sci-tech/da-vincis-the-last-supper-may-\
+harbour-the-elusive-da-vinci-code_1004487.html",
+  FontFamily->"Verdana"],
+ "\n\t"
+}], "Text",
+ CellMargins->{{0, 24}, {7, 7}},
+ CellChangeTimes->{
+  3.4503768958401623`*^9, {3.45037692741897*^9, 3.450376965426703*^9}, {
+   3.4503771473955*^9, 3.4503771643081512`*^9}, 3.450378106913436*^9},
+ TextAlignment->Center,
+ LineSpacing->{1.5, 3},
+ FontColor->GrayLevel[0]],
+
+Cell["\<\
+
+\t\
+\>", "Text",
+ CellMargins->{{0, 24}, {7, 7}},
+ CellChangeTimes->{
+  3.4503768958401623`*^9, {3.45037692741897*^9, 3.450376965426703*^9}, {
+   3.4503771473955*^9, 3.4503771643081512`*^9}, 3.450378106913436*^9},
+ LineSpacing->{1.5, 3},
+ FontColor->GrayLevel[0]]
+},
+ShowPageBreaks->True,
+WindowToolbars->{"RulerBar"},
+WindowSize->{700, 687},
+WindowMargins->{{98, Automatic}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+Magnification:>FEPrivate`If[
+  FEPrivate`Equal[FEPrivate`$VersionNumber, 6.], 1.25, 1.25 Inherited],
+FrontEndVersion->"7.0 for Mac OS X x86 (32-bit) (November 10, 2008)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[545, 20, 384, 11, 66, "Text"],
+Cell[932, 33, 238, 6, 24, "Text"],
+Cell[1173, 41, 2984, 54, 903, "Text"],
+Cell[4160, 97, 620, 17, 126, "Text"],
+Cell[4783, 116, 274, 9, 47, "Text"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
